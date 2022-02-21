@@ -1,5 +1,3 @@
-![Abubakar's Github Profile Banner](https://i.pilo.ovh/images/LITZK.png)
+![Abubakar's Github Profile Banner](https://github-readme-stats.vercel.app/api?username=abubakarkang&show_icons=true&theme=highcontrast)
 
-## Abubakar Kang
-
-Hi, I'm Abubakar and I'm studying O Levels. I code as a hobby and wish to learn many other programming languages 😄
+### See what I've been up to throughout my time here ^^
