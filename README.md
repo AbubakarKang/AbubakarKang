@@ -29,3 +29,10 @@
 <hr>
 
 <h3 align="center">I am a freelancer programmer and a designer who is willing to work for you! Feel free to contact me through my personal portfolio! 😊<h3>
+<hr>
+
+<p align="center">
+    <a href="https://github.com/AbubakarKang">
+        <img src="https://github-readme-stats.vercel.app/api?username=AbubakarKang&show_icons=true&theme=dark&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Stats!&border_radius=10">
+    </a>
+</p
