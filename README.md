@@ -18,6 +18,16 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=abubakarkang&repo=AbubakarKang.github.io&theme=dark">
     </a>
 </p>
+<p align="center">
+    <a href="https://github.com/AbubakarKang/better-hacker-news">
+        <img width="400" src="./assets/repositories/better-hacker-news.png">
+    </a>
+</p>
+<p align="center">
+    <a href="https://github.com/AbubakarKang/better-hacker-news">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=abubakarkang&repo=better-hacker-news&theme=dark">
+    </a>
+</p>
 <hr>
 
 ## About Me 🧑
